@@ -1,0 +1,7 @@
+D:\分子计算器开发\元素周期表归类读取\bin\Debug\元素周期表归类读取.exe.config
+D:\分子计算器开发\元素周期表归类读取\bin\Debug\元素周期表归类读取.exe
+D:\分子计算器开发\元素周期表归类读取\bin\Debug\元素周期表归类读取.pdb
+D:\分子计算器开发\元素周期表归类读取\obj\Debug\元素周期表归类读取.csprojAssemblyReference.cache
+D:\分子计算器开发\元素周期表归类读取\obj\Debug\元素周期表归类读取.csproj.CoreCompileInputs.cache
+D:\分子计算器开发\元素周期表归类读取\obj\Debug\元素周期表归类读取.exe
+D:\分子计算器开发\元素周期表归类读取\obj\Debug\元素周期表归类读取.pdb

@@ -1,0 +1,95 @@
+D:\分子计算器开发\界面开发\bin\Debug\界面开发.exe.config
+D:\分子计算器开发\界面开发\bin\Debug\界面开发.exe
+D:\分子计算器开发\界面开发\bin\Debug\界面开发.pdb
+D:\分子计算器开发\界面开发\obj\Debug\界面开发.csprojAssemblyReference.cache
+D:\分子计算器开发\界面开发\obj\Debug\MainWindow.g.cs
+D:\分子计算器开发\界面开发\obj\Debug\App.g.cs
+D:\分子计算器开发\界面开发\obj\Debug\界面开发_MarkupCompile.cache
+D:\分子计算器开发\界面开发\obj\Debug\界面开发_MarkupCompile.lref
+D:\分子计算器开发\界面开发\obj\Debug\MainWindow.baml
+D:\分子计算器开发\界面开发\obj\Debug\界面开发.g.resources
+D:\分子计算器开发\界面开发\obj\Debug\界面开发.Properties.Resources.resources
+D:\分子计算器开发\界面开发\obj\Debug\界面开发.csproj.GenerateResource.cache
+D:\分子计算器开发\界面开发\obj\Debug\界面开发.csproj.CoreCompileInputs.cache
+D:\分子计算器开发\界面开发\obj\Debug\界面开发.exe
+D:\分子计算器开发\界面开发\obj\Debug\界面开发.pdb
+D:\分子计算器开发\界面开发\bin\Debug\元素周期表归类读取.exe
+D:\分子计算器开发\界面开发\bin\Debug\元素周期表归类读取.pdb
+D:\分子计算器开发\界面开发\bin\Debug\元素周期表归类读取.exe.config
+D:\分子计算器开发\界面开发\obj\Debug\界面开发.csproj.CopyComplete
+D:\Visual Studio 2019\--main\界面开发\obj\Debug\界面开发.csprojAssemblyReference.cache
+D:\Visual Studio 2019\--main\界面开发\obj\Debug\MainWindow.g.cs
+D:\Visual Studio 2019\--main\界面开发\obj\Debug\App.g.cs
+D:\Visual Studio 2019\--main\界面开发\obj\Debug\界面开发_MarkupCompile.cache
+D:\Visual Studio 2019\--main\界面开发\obj\Debug\界面开发_MarkupCompile.lref
+D:\Visual Studio 2019\--main\界面开发\obj\Debug\界面开发.exe
+D:\Visual Studio 2019\--main\界面开发\obj\Debug\界面开发.pdb
+D:\Visual Studio 2019\--main\界面开发\bin\Debug\界面开发.exe.config
+D:\Visual Studio 2019\--main\界面开发\bin\Debug\界面开发.exe
+D:\Visual Studio 2019\--main\界面开发\bin\Debug\界面开发.pdb
+D:\Visual Studio 2019\--main\界面开发\bin\Debug\元素周期表归类读取.exe
+D:\Visual Studio 2019\--main\界面开发\bin\Debug\元素周期表归类读取.pdb
+D:\Visual Studio 2019\--main\界面开发\bin\Debug\元素周期表归类读取.exe.config
+D:\Visual Studio 2019\--main\界面开发\obj\Debug\MainWindow.baml
+D:\Visual Studio 2019\--main\界面开发\obj\Debug\界面开发.g.resources
+D:\Visual Studio 2019\--main\界面开发\obj\Debug\界面开发.Properties.Resources.resources
+D:\Visual Studio 2019\--main\界面开发\obj\Debug\界面开发.csproj.GenerateResource.cache
+D:\Visual Studio 2019\--main\界面开发\obj\Debug\界面开发.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2019\--main\界面开发\obj\Debug\界面开发.csproj.CopyComplete
+D:\Visual Studio 2019\更改后main\界面开发\bin\Debug\界面开发.exe.config
+D:\Visual Studio 2019\更改后main\界面开发\bin\Debug\界面开发.exe
+D:\Visual Studio 2019\更改后main\界面开发\bin\Debug\界面开发.pdb
+D:\Visual Studio 2019\更改后main\界面开发\bin\Debug\元素周期表归类读取.exe
+D:\Visual Studio 2019\更改后main\界面开发\bin\Debug\元素周期表归类读取.pdb
+D:\Visual Studio 2019\更改后main\界面开发\bin\Debug\元素周期表归类读取.exe.config
+D:\Visual Studio 2019\更改后main\界面开发\obj\Debug\界面开发.csprojAssemblyReference.cache
+D:\Visual Studio 2019\更改后main\界面开发\obj\Debug\MainWindow.g.cs
+D:\Visual Studio 2019\更改后main\界面开发\obj\Debug\App.g.cs
+D:\Visual Studio 2019\更改后main\界面开发\obj\Debug\界面开发_MarkupCompile.cache
+D:\Visual Studio 2019\更改后main\界面开发\obj\Debug\界面开发_MarkupCompile.lref
+D:\Visual Studio 2019\更改后main\界面开发\obj\Debug\MainWindow.baml
+D:\Visual Studio 2019\更改后main\界面开发\obj\Debug\界面开发.g.resources
+D:\Visual Studio 2019\更改后main\界面开发\obj\Debug\界面开发.Properties.Resources.resources
+D:\Visual Studio 2019\更改后main\界面开发\obj\Debug\界面开发.csproj.GenerateResource.cache
+D:\Visual Studio 2019\更改后main\界面开发\obj\Debug\界面开发.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2019\更改后main\界面开发\obj\Debug\界面开发.csproj.CopyComplete
+D:\Visual Studio 2019\更改后main\界面开发\obj\Debug\界面开发.exe
+D:\Visual Studio 2019\更改后main\界面开发\obj\Debug\界面开发.pdb
+D:\Visual Studio 2019\main\界面开发\bin\Debug\界面开发.exe.config
+D:\Visual Studio 2019\main\界面开发\bin\Debug\界面开发.exe
+D:\Visual Studio 2019\main\界面开发\bin\Debug\界面开发.pdb
+D:\Visual Studio 2019\main\界面开发\bin\Debug\元素周期表归类读取.exe
+D:\Visual Studio 2019\main\界面开发\bin\Debug\元素周期表归类读取.pdb
+D:\Visual Studio 2019\main\界面开发\bin\Debug\元素周期表归类读取.exe.config
+D:\Visual Studio 2019\main\界面开发\obj\Debug\界面开发.csprojAssemblyReference.cache
+D:\Visual Studio 2019\main\界面开发\obj\Debug\MainWindow.g.cs
+D:\Visual Studio 2019\main\界面开发\obj\Debug\App.g.cs
+D:\Visual Studio 2019\main\界面开发\obj\Debug\界面开发_MarkupCompile.cache
+D:\Visual Studio 2019\main\界面开发\obj\Debug\界面开发_MarkupCompile.lref
+D:\Visual Studio 2019\main\界面开发\obj\Debug\MainWindow.baml
+D:\Visual Studio 2019\main\界面开发\obj\Debug\界面开发.g.resources
+D:\Visual Studio 2019\main\界面开发\obj\Debug\界面开发.Properties.Resources.resources
+D:\Visual Studio 2019\main\界面开发\obj\Debug\界面开发.csproj.GenerateResource.cache
+D:\Visual Studio 2019\main\界面开发\obj\Debug\界面开发.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2019\main\界面开发\obj\Debug\界面开发.csproj.CopyComplete
+D:\Visual Studio 2019\main\界面开发\obj\Debug\界面开发.exe
+D:\Visual Studio 2019\main\界面开发\obj\Debug\界面开发.pdb
+C:\Users\chuch\Desktop\main\main\界面开发\bin\Debug\界面开发.exe.config
+C:\Users\chuch\Desktop\main\main\界面开发\bin\Debug\界面开发.exe
+C:\Users\chuch\Desktop\main\main\界面开发\bin\Debug\界面开发.pdb
+C:\Users\chuch\Desktop\main\main\界面开发\bin\Debug\元素周期表归类读取.exe
+C:\Users\chuch\Desktop\main\main\界面开发\bin\Debug\元素周期表归类读取.pdb
+C:\Users\chuch\Desktop\main\main\界面开发\bin\Debug\元素周期表归类读取.exe.config
+C:\Users\chuch\Desktop\main\main\界面开发\obj\Debug\界面开发.csprojAssemblyReference.cache
+C:\Users\chuch\Desktop\main\main\界面开发\obj\Debug\MainWindow.g.cs
+C:\Users\chuch\Desktop\main\main\界面开发\obj\Debug\App.g.cs
+C:\Users\chuch\Desktop\main\main\界面开发\obj\Debug\界面开发_MarkupCompile.cache
+C:\Users\chuch\Desktop\main\main\界面开发\obj\Debug\界面开发_MarkupCompile.lref
+C:\Users\chuch\Desktop\main\main\界面开发\obj\Debug\MainWindow.baml
+C:\Users\chuch\Desktop\main\main\界面开发\obj\Debug\界面开发.g.resources
+C:\Users\chuch\Desktop\main\main\界面开发\obj\Debug\界面开发.Properties.Resources.resources
+C:\Users\chuch\Desktop\main\main\界面开发\obj\Debug\界面开发.csproj.GenerateResource.cache
+C:\Users\chuch\Desktop\main\main\界面开发\obj\Debug\界面开发.csproj.CoreCompileInputs.cache
+C:\Users\chuch\Desktop\main\main\界面开发\obj\Debug\界面开发.csproj.CopyComplete
+C:\Users\chuch\Desktop\main\main\界面开发\obj\Debug\界面开发.exe
+C:\Users\chuch\Desktop\main\main\界面开发\obj\Debug\界面开发.pdb

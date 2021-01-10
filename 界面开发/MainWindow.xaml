@@ -1,0 +1,61 @@
+﻿<Window x:Class="界面开发.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:界面开发"
+        mc:Ignorable="d"
+        Title="原子质量/分子量计算器" Height="450" Width="800">
+    <Window.Resources>
+        <Style TargetType="DataGridColumnHeader">
+            <!--让DataGrid的标题居中-->
+            <Setter Property="HorizontalContentAlignment" Value="Center"></Setter>
+        </Style>
+
+        <Style x:Key="Center" TargetType="{x:Type TextBlock}">
+            <!--让DataGrid的内容居中-->
+            <Setter Property="HorizontalAlignment" Value="Center"></Setter>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <TextBlock x:Name="txtB1" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Margin="80,37,0,0" Text="输入化学式：" FontFamily="HGZDX_CNKI" FontWeight="Bold" FontSize="18"/>
+        <TextBox x:Name="receiveInput" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="461" Margin="203,35,0,0" TextChanged="receiveInput_TextChanged">
+            <TextBox.Resources>
+                <VisualBrush x:Key="HelpBrush" TileMode="None" Opacity="0.3" Stretch="None" AlignmentX="Left" >
+                    <VisualBrush.Visual>
+                        <TextBlock Text="注意：严格区分大小写"/>
+                    </VisualBrush.Visual>
+                </VisualBrush>
+            </TextBox.Resources>
+            <TextBox.Style>
+                <Style TargetType="TextBox">
+                    <Style.Triggers>
+                        <Trigger Property="Text" Value="">
+                            <Setter Property="Background" Value="{StaticResource HelpBrush}"/>
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </TextBox.Style>
+        </TextBox>
+        <Button x:Name="butClear" Content="清除" HorizontalAlignment="Left" Margin="362,81,0,0" VerticalAlignment="Top" Width="91" Height="40" FontFamily="HGB1_CNKI" FontSize="18" FontWeight="Bold" Click="butClear_Click"/>
+        <TextBlock x:Name="txtB2" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Margin="106,366,0,0" Text="分子量：" FontFamily="HGZDX_CNKI" FontWeight="Bold" FontSize="18"/>
+        <TextBox x:Name="textBox1" HorizontalAlignment="Left" Height="21" Margin="203,366,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="461" IsReadOnly="True"/>
+        <DataGrid x:Name="dgPlay" AutoGenerateColumns="False" CanUserSortColumns="True"  CanUserAddRows="False" HorizontalAlignment="Left" Height="176" Margin="203,147,0,0" VerticalAlignment="Top" Width="434">
+            <DataGrid.Columns>
+                <DataGridTextColumn ElementStyle="{StaticResource Center}" Binding="{Binding Number}" Width="80" Header="原子序号"/>
+                <DataGridTextColumn ElementStyle="{StaticResource Center}" Binding="{Binding Name}" Width="100" Header="原子名称"/>
+                <DataGridTextColumn ElementStyle="{StaticResource Center}" Binding="{Binding Symbol}" Width="100" Header="元素符号"/>
+                <DataGridTextColumn ElementStyle="{StaticResource Center}" Binding="{Binding AtomMass}" Width="150" Header="原子质量"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <DataGrid x:Name="dgPlay_2" AutoGenerateColumns="False" CanUserSortColumns="True"  CanUserAddRows="False" HorizontalAlignment="Left" Height="176" Margin="203,147,0,0" VerticalAlignment="Top" Width="461" Grid.Row="118" Grid.Column="4" Visibility="Hidden">
+            <DataGrid.Columns>
+                <DataGridTextColumn ElementStyle="{StaticResource Center}" Binding="{Binding Symbol}" Width="80" Header="原子符号"/>
+                <DataGridTextColumn ElementStyle="{StaticResource Center}" Binding="{Binding Count}" Width="90" Header="原子数量"/>
+                <DataGridTextColumn ElementStyle="{StaticResource Center}" Binding="{Binding Mass}" Width="110" Header="原子质量"/>
+                <DataGridTextColumn ElementStyle="{StaticResource Center}" Binding="{Binding TotalMass}" Width="160" Header="完全质量"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+    </Grid>
+</Window>
